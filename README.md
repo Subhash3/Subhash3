@@ -10,8 +10,6 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Subhash3&show_icons=true&theme=highcontrast">
 
-<br/>
-
 #### 🖥️ My tech stack
 
 
