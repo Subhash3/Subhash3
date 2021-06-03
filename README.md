@@ -3,7 +3,7 @@
 - 🤖 I am passionate about Deep Learning and its applications in real life.
 
 
-- 🔭 I’m currently working on [`nicenet`](pypi.org/project/nicenet/), a python Neural Networks package.
+- 🔭 I’m currently working on [`nicenet`](https://pypi.org/project/nicenet/), a python Neural Networks package.
 - 👯 I’m looking to collaborate on open source ML/DL projects.
 
 <br/>
