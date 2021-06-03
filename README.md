@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=Subhash3&show_icons=true&theme=highcontrast">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Subhash3&show_icons=true&theme=highcontrast">
 
 <br/>
 <br/>
@@ -27,9 +27,14 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=25 height=25 align="center"></code>
 
 <br/>
+
+
 <br/>
-
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 - 📫 Let us get in touch.
 
 <a href="https://subhash3.github.io"><img src="https://img.shields.io/badge/subhash3.github.io-Message%20Me-blue?color=15307B&style=for-the-badge"></a>
