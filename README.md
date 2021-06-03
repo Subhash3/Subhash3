@@ -23,12 +23,7 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=40 height=40 align="center"></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=40 height=40 align="center"></span>
 
-<br/>
 
-
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
