@@ -12,17 +12,17 @@
 
 <br/>
 
-- 🖥️ My tech stack
+#### 🖥️ My tech stack
 
 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=40 height=40 align="center"></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=40 height=40 align="center"></code>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=40 height=40 align="center"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width=40 height=40 align="center"></span>
 
 <br/>
 
