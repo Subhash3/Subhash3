@@ -19,6 +19,7 @@
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width=40 height=40 align="center"></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width=40 height=40 align="center"></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width=40 height=40 align="center"></span>
+
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width=40 height=40 align="center"></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width=40 height=40 align="center"></span>
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width=40 height=40 align="center"></span>
