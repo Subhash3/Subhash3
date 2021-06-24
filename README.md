@@ -1,9 +1,7 @@
 # Hello 👋🏻👋🏻
-- 😇 My name is Subhash Sarangi, and I am a Computer Programmer.
-- 🤖 I am passionate about Deep Learning and its applications in real life.
-
-
-- 🔭 I’m currently working on [`nicenet`](https://pypi.org/project/nicenet/), a python Neural Networks package.
+- 😇 My name is Subhash Sarangi, and I am a Computer Programmer.  
+- 🤖 I am passionate about Deep Learning and its applications in real life.  
+- 🔭 I’m currently working on [`nicenet`](https://pypi.org/project/nicenet/), a python Neural Networks package.  
 - 👯 I’m looking to collaborate on open source ML/DL projects.
 
 <br/>
@@ -27,8 +25,9 @@
 <br/>
 <br/>
 <br/>
-- 📫 Let us get in touch.
-
-<a href="https://subhash3.github.io"><img src="https://img.shields.io/badge/subhash3.github.io-Message%20Me-blue?color=15307B&style=for-the-badge"></a>
+- 📫 Let us get in touch.  
+<br/>
+<a href="https://subhash3.github.io"><img src="https://img.shields.io/badge/subhash3.github.io-Message%20Me-blue?color=15307B&style=for-the-badge"></a> 
+<a href="https://www.youtube.com/channel/UCr6VO3HU87nKwFi4QGqPuNA"><img src="https://img.shields.io/badge/Subhash Sarangi-c14438.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> 
 <a href="https://www.linkedin.com/in/subhash-sarangi/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="mailto:subhashsarangi123@gmail.com"><img src="https://img.shields.io/badge/subhashsarangi123@gmail.com-c14438.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="mailto:subhashsarangi123@gmail.com"><img src="https://img.shields.io/badge/subhashsarangi123@gmail.com-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
